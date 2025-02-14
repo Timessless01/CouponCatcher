@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>CouponCatcher</title>
+  <style>
+    body {
+      width: 300px;
+      font-family: Arial, sans-serif;
+      padding: 10px;
+      background: #f9f9f9;
+    }
+    h1 {
+      font-size: 18px;
+      text-align: center;
+      color: #333;
+    }
+    #search {
+      width: 100%;
+      padding: 8px;
+      margin-bottom: 10px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+    }
+    .coupon-list {
+      max-height: 400px;
+      overflow-y: auto;
+    }
+    .coupon-item {
+      background: white;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      padding: 10px;
+      margin-bottom: 10px;
+    }
+    .coupon-code {
+      font-weight: bold;
+      color: #4CAF50;
+    }
+    .copy-button {
+      background: #4CAF50;
+      color: white;
+      border: none;
+      padding: 5px 10px;
+      border-radius: 4px;
+      cursor: pointer;
+      float: right;
+    }
+    .copy-button:hover {
+      background: #45a049;
+    }
+  </style>
+</head>
+<body>
+  <h1>CouponCatcher 🛒</h1>
+  <input type="text" id="search" placeholder="Search coupons..." />
+  <div class="coupon-list" id="coupon-list">
+    <!-- Coupons will be dynamically inserted here -->
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
