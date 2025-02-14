@@ -5,7 +5,7 @@
 
 ### **How It Works**  
 1. Install the CouponCatcher browser extension.  
-2. Shop at supported stores (e.g., Amazon, eBay).  
+2. Shop at supported stores (e.g., Amazon, eBay, Walmart).  
 3. See available coupon codes at checkout.  
 4. Save money instantly!  
 
@@ -28,7 +28,13 @@
 ---
 
 ### **Contribute Coupons**  
-Found a new coupon? Submit it [here](#)!  
+Found a new coupon? Submit it to **Lexatellah@gmail.com**!  
+
+---
+
+### **Support the Project**  
+Love CouponCatcher? Support me by buying me a coffee!  
+[![Donate via PayPal](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://paypal.me/stellahnjogezi)  
 
 ---
 
@@ -37,5 +43,10 @@ We don’t collect or store any personal data. All coupon data is public and hos
 
 ---
 
-### **Support the Project**  
-Love CouponCatcher? [Buy me a coffee](#)!  
+### **Feedback**  
+Have suggestions or found a bug? Email me at **Lexatellah@gmail.com**.  
+
+---
+
+### **License**  
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.  
