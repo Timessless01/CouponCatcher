@@ -2,6 +2,7 @@
   "manifest_version": 3,
   "name": "CouponCatcher",
   "version": "1.0",
+  "description": "Automatically find and apply coupon codes at checkout. Save money on Amazon, eBay, and more!",
   "icons": {
     "16": "icons/icon16.png",
     "48": "icons/icon48.png",
