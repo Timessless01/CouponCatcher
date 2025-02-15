@@ -1,19 +1,10 @@
 [
   {
-    "store": "Amazon",
+    "store": "smile.amazon.com",
     "codes": [
       { "code": "SUMMER10", "description": "10% off on all items" },
-      { "code": "FREESHIP", "description": "Free shipping on orders over $50" },
-      { "code": "WELCOME20", "description": "20% off for new customers" }
+      { "code": "FREESHIP", "description": "Free shipping on orders over $50" }
     ],
     "affiliateLink": "https://amzn.to/4aZOgGY"
-  },
-  {
-    "store": "eBay",
-    "codes": [
-      { "code": "EBAY15", "description": "15% off on electronics" },
-      { "code": "FLASH25", "description": "25% off flash sale" }
-    ],
-    "affiliateLink": "https://ebay.com/ref=your_ebay_affiliate_id"
   }
 ]
