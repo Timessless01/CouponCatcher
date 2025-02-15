@@ -4,14 +4,7 @@
     "codes": [
       { "code": "SUMMER10", "description": "10% off on all items" },
       { "code": "FREESHIP", "description": "Free shipping on orders over $50" },
-      { "code": "WELCOME20", "description": "20% off for new customers" },
-      { "code": "DEAL30", "description": "30% off on select items" },
-      { "code": "FLASH25", "description": "25% off flash sale" },
-      { "code": "HOLIDAY50", "description": "50% off holiday special" },
-      { "code": "NEWYEAR40", "description": "40% off new year sale" },
-      { "code": "SPRING20", "description": "20% off spring collection" },
-      { "code": "FALL25", "description": "25% off fall collection" },
-      { "code": "TECH15", "description": "15% off on electronics" }
+      { "code": "WELCOME20", "description": "20% off for new customers" }
     ],
     "affiliateLink": "https://amzn.to/4aZOgGY"
   },
@@ -19,32 +12,8 @@
     "store": "eBay",
     "codes": [
       { "code": "EBAY15", "description": "15% off on electronics" },
-      { "code": "FLASH25", "description": "25% off flash sale" },
-      { "code": "SAVE10", "description": "10% off on all items" },
-      { "code": "FREESHIP", "description": "Free shipping on orders over $30" },
-      { "code": "WELCOME20", "description": "20% off for new customers" },
-      { "code": "DEAL30", "description": "30% off on select items" },
-      { "code": "HOLIDAY50", "description": "50% off holiday special" },
-      { "code": "NEWYEAR40", "description": "40% off new year sale" },
-      { "code": "SPRING20", "description": "20% off spring collection" },
-      { "code": "FALL25", "description": "25% off fall collection" }
+      { "code": "FLASH25", "description": "25% off flash sale" }
     ],
-    "affiliateLink": "https://ebay.com/ref=your_affiliate_id"
-  },
-  {
-    "store": "Walmart",
-    "codes": [
-      { "code": "WALMART10", "description": "10% off on all items" },
-      { "code": "FREESHIP", "description": "Free shipping on orders over $35" },
-      { "code": "WELCOME20", "description": "20% off for new customers" },
-      { "code": "DEAL30", "description": "30% off on select items" },
-      { "code": "FLASH25", "description": "25% off flash sale" },
-      { "code": "HOLIDAY50", "description": "50% off holiday special" },
-      { "code": "NEWYEAR40", "description": "40% off new year sale" },
-      { "code": "SPRING20", "description": "20% off spring collection" },
-      { "code": "FALL25", "description": "25% off fall collection" },
-      { "code": "TECH15", "description": "15% off on electronics" }
-    ],
-    "affiliateLink": "https://walmart.com/ref=your_affiliate_id"
+    "affiliateLink": "https://ebay.com/ref=your_ebay_affiliate_id"
   }
 ]
