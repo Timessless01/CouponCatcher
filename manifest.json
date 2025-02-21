@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "Coupon Catcher",
+  "version": "1.0",
+  "permissions": ["activeTab"],
+  "host_permissions": ["*://*.amazon.com/*"],
+  "content_scripts": [
+    {
+      "matches": ["*://*.amazon.com/*/dp/*", "*://*.amazon.com/dp/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "128": "icon.png"
+  },
+  "action": {
+    "default_icon": "icon.png"
+  }
+}
